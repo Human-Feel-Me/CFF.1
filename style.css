@@ -76,6 +76,10 @@ header {
 }
 /*  */
 @media screen and (max-width:768px){
+    header {
+        height: 50px;
+        width: 100vw;
+    }
     header ul {
         display: none;
     }
